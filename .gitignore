@@ -1,0 +1,5 @@
+# Excluir configuraciones de espacio de trabajo locales
+.obsidian
+
+# Excluir archivos temporales o de sistema
+.DS_Store
