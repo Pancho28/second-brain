@@ -10,13 +10,14 @@
     
 - **Ganancia Marginal (Estrategia Geométrica):** Aplicación de mejoras incrementales del 1% diario que, mediante una lógica de **interés compuesto**, transforman radicalmente la capacidad de toma de decisiones en ciclos anuales.
     
+- **Bucle del habito:** Ciclo neurológico que determina como se puede transformar un habito en un comportamiento automático.
+    
 - **Apilamiento de Hábitos:** Técnica de diseño de sistemas que inserta nuevas rutinas técnicas sobre **anclajes preexistentes** para reducir la carga cognitiva y la barrera de entrada.
     
 - **Regla de los Dos Minutos:** Protocolo de optimización de inicio diseñado para vencer la **fricción operativa** y facilitar la entrada en estado de flujo, independientemente del estado anímico.
     
 - **Arquitectura del Entorno:** Diseño deliberado del espacio y flujos de trabajo para que la ejecución técnica sea el **camino de menor resistencia**, eliminando la dependencia de la fuerza de voluntad.
     
-
 ---
 
 ### 🛠️ Aplicación Técnica / Arquitectura

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"4a7a76cdeb6c8ecd","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Iludion de competencia y lucha productiva.png","x":-320,"y":-280,"width":400,"height":174},
+		{"id":"963d61943881781d","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Funcionamiento LLMs.png","x":-320,"y":-60,"width":400,"height":159},
+		{"id":"a835e0d667dbc7d2","x":-320,"y":140,"width":400,"height":160,"type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Limites de la IA.png"}
+	],
+	"edges":[]
+}
