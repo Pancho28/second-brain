@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"29394c038c3201a9","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Ejemplos prompt.png","x":-700,"y":-700,"width":399,"height":154},
-		{"id":"0199f7ef40ebb9b5","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Aprendizaje activo y retención.png","x":-701,"y":-500,"width":400,"height":178},
-		{"id":"9cdac5245a0cb5d4","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Resolución de problemas y depuración lógica.png","x":-701,"y":-280,"width":400,"height":166}
+		{"id":"29394c038c3201a9","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Ejemplos prompt.png","x":-700,"y":-700,"width":399,"height":154},
+		{"id":"0199f7ef40ebb9b5","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Aprendizaje activo y retención.png","x":-701,"y":-500,"width":400,"height":178},
+		{"id":"9cdac5245a0cb5d4","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Resolución de problemas y depuración lógica.png","x":-701,"y":-280,"width":400,"height":166}
 	],
 	"edges":[]
 }

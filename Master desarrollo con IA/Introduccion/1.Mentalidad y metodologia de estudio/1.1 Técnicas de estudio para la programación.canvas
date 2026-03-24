@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"debac42907cb0309","type":"file","file":"Imagenes master desarollo con IA/Introduccion/1.Mentalidad y metodologias de estudio/Tecnica pomodoro.png","x":-380,"y":-340,"width":400,"height":75},
+		{"id":"d58bde7ff8074d8b","type":"file","file":"Imagenes master desarollo con IA/Introduccion/1.Mentalidad y metodologias de estudio/Bloques de tiempo.png","x":-380,"y":-100,"width":400,"height":255},
+		{"id":"f6ed1bf6f39e5e2b","type":"text","text":"Definir bloques de tiempo","x":-380,"y":-160,"width":250,"height":60},
+		{"id":"f3a91dc7a536ab6c","type":"text","text":"Técnica pomodoro","x":-380,"y":-400,"width":250,"height":60}
+	],
+	"edges":[]
+}

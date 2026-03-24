@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"0586d3e283da695f","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Prompt de ejemplo de generacion de ejercicios.png","x":-380,"y":-320,"width":399,"height":146},
-		{"id":"a956b46ef7e3bb42","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Prompt ejemplo de quizmaster.png","x":-380,"y":-120,"width":400,"height":118},
-		{"id":"fd10b95a1409c668","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/Prompt ejemplo de simulacion de entrevista.png","x":-380,"y":60,"width":400,"height":148},
-		{"id":"cbbc83b48c2ae072","type":"file","file":"Imagenes master desarollo con IA/1 Introduccion/2.IA en el proceso de aprendizaje/GPT o gems tutor personalizado.png","x":100,"y":-320,"width":400,"height":216}
+		{"id":"0586d3e283da695f","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Prompt de ejemplo de generacion de ejercicios.png","x":-380,"y":-320,"width":399,"height":146},
+		{"id":"a956b46ef7e3bb42","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Prompt ejemplo de quizmaster.png","x":-380,"y":-120,"width":400,"height":118},
+		{"id":"fd10b95a1409c668","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/Prompt ejemplo de simulacion de entrevista.png","x":-380,"y":60,"width":400,"height":148},
+		{"id":"cbbc83b48c2ae072","type":"file","file":"Imagenes master desarollo con IA/Introduccion/2.IA en el proceso de aprendizaje/GPT o gems tutor personalizado.png","x":100,"y":-320,"width":400,"height":216}
 	],
 	"edges":[]
 }

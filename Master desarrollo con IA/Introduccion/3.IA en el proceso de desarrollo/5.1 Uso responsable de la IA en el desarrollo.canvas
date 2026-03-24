@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"54d91628c4aeb088","x":-340,"y":-260,"width":400,"height":157,"type":"file","file":"Imagenes master desarollo con IA/Introduccion/3.Ia en el proceso de desarrollo/Plausibilidad vs veracidad.png"},
+		{"id":"6f0809cc937d1f24","x":-340,"y":-20,"width":400,"height":236,"type":"file","file":"Imagenes master desarollo con IA/Introduccion/3.Ia en el proceso de desarrollo/Cuadrante de desicion estrategica.png"},
+		{"id":"7fa727239d822325","x":-340,"y":280,"width":400,"height":213,"type":"file","file":"Imagenes master desarollo con IA/Introduccion/3.Ia en el proceso de desarrollo/Metodo del sandwich.png"},
+		{"id":"eb2f5392841ad4e8","x":-340,"y":580,"width":400,"height":152,"type":"file","file":"Imagenes master desarollo con IA/Introduccion/3.Ia en el proceso de desarrollo/Fuga de datos.png"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2e88e2b730ab9809","type":"file","file":"Imagenes master desarollo con IA/Introduccion/1.Mentalidad y metodologias de estudio/Bucle del habito.png","x":-440,"y":-300,"width":398,"height":94},
+		{"id":"08e6adce55cb03ab","type":"text","text":"El Bucle del Hábito","x":-440,"y":-360,"width":250,"height":60},
+		{"id":"df2ef7c8246c1e74","type":"file","file":"Imagenes master desarollo con IA/Introduccion/1.Mentalidad y metodologias de estudio/Apilamiento de habitos.png","x":-442,"y":-60,"width":400,"height":134},
+		{"id":"65401355cb4e739e","type":"text","text":"Apilamiento de hábitos","x":-442,"y":-120,"width":250,"height":60}
+	],
+	"edges":[]
+}
