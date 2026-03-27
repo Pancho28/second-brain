@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f4449c7f013faa45","x":-340,"y":-280,"width":400,"height":203,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/1 Ciclo de vida del desarrollo de software/Receta para crear programas.png"},
+		{"id":"9a0f48c74a933f08","x":-340,"y":-20,"width":400,"height":155,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/1 Ciclo de vida del desarrollo de software/Diferentes metodologias.png"},
+		{"id":"04b1cf843c1c2dde","x":-340,"y":220,"width":400,"height":258,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/1 Ciclo de vida del desarrollo de software/Preguntas para determinar metodologia.png"}
+	],
+	"edges":[]
+}
