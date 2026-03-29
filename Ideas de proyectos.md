@@ -1,0 +1,16 @@
+* Modificar el gateway creado para permitir crear acceso para saber que usuarios tienen permisos para que sus peticiones pasen al servicio, también generar una capa de roles para los servicios y poder pesarlos, siendo 5 posibles roles con diferentes pesos, luego en los servicios se tendrán restricciones por peso de las funcionalidades, así el gateway solo verifica si el usuario puede acceder al servicio y el servicio internamente verifica si el usuario tiene el peso adecuado para usar la petición que solicito, los roles seria:
+	1. Super = 5 (solo lo tendré yo y único en poder crear administradores)
+	2. Admin = 4 (Todas las funcionalidades del servicio, puede crear usuarios y puede dar acceso a usuarios al servicio)
+	3. Oper = 3 (Funcionalidades que ayuden a la operación de los servicios)
+	4. User = 2 (Funcionalidades básicas de la aplicación)
+	5. Cachilapo = 1 (Solo lectura)
+	Agregar redis para no sobrecargar la base de datos y agilizar las peticiones a los servicios, con esto será casi inmediata la verificación de los permisos de los usuarios, la idea seria que si el login del usuario sale correcto, se extraigan los permisos y se agreguen a redis con una duración de un día, entonces las nuevas peticiones a los servicios no tendrían que obtener los permisos de la base de datos sino de redis y haría mas rápida la lectura de estos.
+* Crear segundo cerebro conectando apuntes del master con algún modelo auto alojado en Railway (Ollama o algún otro open source)
+* Crear un servicio que inserte logs de mis proyectos en la base de datos analítica en sales management, la arquitectura seria :
+	1. Un micro servicio publicador (fastAPI o nestJS) que tenga que recibe el log y lo deje en una cola, con nivel, mensaje, código de estado, servicio que lo manda y puede que mas información útil.
+	2. Configurar rabbitmq para el gestionado de eventos por tópico, transmite los mensajes desde el publicador hasta el suscriptor.
+	3. Un micro servicio suscriptor (fastAPI o nestJS) que lea la cola y agregue el log en la base de datos, se tendrá un comportamiento hibrido, ya que guardara los log que llegan a la cola hasta que tenga 500 mensajes en cola, que hayan pasado 10 minutos o que haya un error critico, si pasan los 10 minutos y no hay nada en la cola no se ejecuta nada y se reinicia el contador.
+* Crear un aplicativo para el análisis profundo de los partidos de futbol, no solo que muestre estadísticas si no que pueda correr algún modelo predictivo que intente predecir las estadísticas mas importantes de los próximos partidos de los equipos que se tengan datos. 
+	Pensar que los datos de los equipos se irán cargando a petición, por ejemplo que al comienzo solo se tengan datos del Real Madrid y el Bayern, entonces dentro del aplicativo pueda decir que se busque información de otro equipo o jugador y esto se haga en la madrugada, para que no afecte el performance. 
+	También, la carga de datos deberá efectuarse en la madrugada, con las estadísticas de los partidos jugados el día anterior.
+	
