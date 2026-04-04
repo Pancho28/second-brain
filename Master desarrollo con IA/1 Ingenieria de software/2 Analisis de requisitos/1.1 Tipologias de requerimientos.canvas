@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b175831ff25f7801","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Tipos de requerimientos.png","x":-300,"y":-300,"width":400,"height":294},
+		{"id":"1523275d94ca078b","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Historias de usuario.png","x":-300,"y":60,"width":400,"height":172},
+		{"id":"b5ed462c147648d6","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Criterios de aceptacion.png","x":-300,"y":300,"width":399,"height":217},
+		{"id":"226beb25d227adc7","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Moscow.png","x":-300,"y":560,"width":400,"height":394}
+	],
+	"edges":[]
+}
