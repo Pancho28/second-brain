@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5bba4489a9e8b387","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Composicion 1.png","x":480,"y":-760,"width":303,"height":400},
+		{"id":"6f095319fe043c0c","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Composicion 2.png","x":480,"y":-360,"width":303,"height":302},
+		{"id":"73a433df3cc35da6","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Polimorfismo 1.png","x":80,"y":-760,"width":270,"height":400},
+		{"id":"19f456c373ed0ad8","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Polimorfismo 2.png","x":80,"y":-360,"width":270,"height":201},
+		{"id":"d8bdad6da76662a6","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Herencia 1.png","x":-360,"y":-760,"width":326,"height":281},
+		{"id":"6daaf272d6f0f06f","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Herencia 2.png","x":-360,"y":-479,"width":326,"height":400},
+		{"id":"2a1da941b0f40102","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Encapsulamiento.png","x":-820,"y":-755,"width":340,"height":496},
+		{"id":"4e95a6603a7bba93","x":-820,"y":-1080,"width":400,"height":243,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Ventajas y desventajas.png"}
+	],
+	"edges":[]
+}

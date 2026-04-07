@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e49fd556f9d496db","x":-320,"y":-260,"width":400,"height":85,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Validacion vs verificacion.png"},
+		{"id":"9efb8603e59a5e08","x":-320,"y":-100,"width":400,"height":164,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Tecnicas de validacion.png"},
+		{"id":"b7c0e6807d5fdf89","x":-320,"y":140,"width":400,"height":90,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Tecnicas de verificacion.png"}
+	],
+	"edges":[]
+}

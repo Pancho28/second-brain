@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e8db589feb54e6aa","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Diagrama casos de uso.png","x":-320,"y":-260,"width":400,"height":120},
+		{"id":"f973189172bb6a55","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Diagrama de proceso.png","x":-320,"y":-60,"width":399,"height":145},
+		{"id":"5d473772c88ef2ab","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Diagrama de secuencia.png","x":-320,"y":140,"width":400,"height":252},
+		{"id":"62ca28d468ed8342","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Diagrama de clases.png","x":140,"y":-260,"width":400,"height":360},
+		{"id":"9bbb6522ec17b099","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Diagrama de componentes.png","x":140,"y":168,"width":400,"height":224}
+	],
+	"edges":[]
+}

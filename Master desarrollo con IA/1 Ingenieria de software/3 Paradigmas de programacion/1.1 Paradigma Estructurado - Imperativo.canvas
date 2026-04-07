@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"bce863b264e44420","x":-280,"y":-240,"width":400,"height":117,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Variables y asignacion.png"},
+		{"id":"11ae2d522773bb85","x":-280,"y":-80,"width":400,"height":219,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Estructuras de control.png"},
+		{"id":"c9e3be41766f40ac","x":-280,"y":180,"width":400,"height":155,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/procedimientos y funciones.png"}
+	],
+	"edges":[]
+}
