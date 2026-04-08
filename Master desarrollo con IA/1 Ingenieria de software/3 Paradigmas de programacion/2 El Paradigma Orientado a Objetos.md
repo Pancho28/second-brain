@@ -1,4 +1,4 @@
-**Categoría P.A.R.A:** #Desarrollo #Ingenieria #Metodologia 
+**Categoría P.A.R.A:** #Desarrollo #Ingenieria #Metodologia #Paradigmaprogrmacion 
 **Temas Relacionados:** [[Arquitectura de Software]], [[Diseño de Sistemas]], [[Escalabilidad]].
 
 ---

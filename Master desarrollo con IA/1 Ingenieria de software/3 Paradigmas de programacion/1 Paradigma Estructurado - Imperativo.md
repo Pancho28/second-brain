@@ -1,4 +1,4 @@
-**Categoría P.A.R.A:** #Desarrollo #Metodologia #Ingenieria  
+**Categoría P.A.R.A:** #Desarrollo #Metodologia #Ingenieria  #Paradigmaprogrmacion 
 **Temas Relacionados:** [[Arquitectura de Software]], [[Optimización de Recursos]], [[Control de Flujo]].
 
 ---

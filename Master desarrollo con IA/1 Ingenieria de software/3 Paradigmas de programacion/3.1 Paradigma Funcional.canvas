@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"eb6b064b0549e001","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Funciones puras.png","x":-280,"y":-260,"width":400,"height":140},
+		{"id":"f3e5e31230a845b8","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Inmutabilidad.png","x":-280,"y":-60,"width":400,"height":148},
+		{"id":"71c27522b62f5312","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Funciones de orden superior.png","x":-280,"y":140,"width":400,"height":161},
+		{"id":"ceeeaf61d5cad1fc","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Funciones en arrays.png","x":200,"y":-260,"width":400,"height":340},
+		{"id":"90e982dbe5f299fa","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Flatmap some every.png","x":200,"y":104,"width":400,"height":197},
+		{"id":"0d96d42975c0490f","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Recursion vs iteracion.png","x":200,"y":320,"width":400,"height":212},
+		{"id":"69276129af369854","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Composicion.png","x":-280,"y":336,"width":400,"height":180}
+	],
+	"edges":[]
+}
