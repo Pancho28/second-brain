@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"874ebff210ade9d4","x":-300,"y":-240,"width":400,"height":386,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Paradigma logico.png"},
+		{"id":"b475123347018f44","x":180,"y":-240,"width":381,"height":400,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Paradigma concurrente.png"},
+		{"id":"6f209c1f1a6d5bf2","x":620,"y":-240,"width":400,"height":289,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Erlang elixir.png"},
+		{"id":"48ea2c152a593172","x":1080,"y":-240,"width":400,"height":306,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Rust.png"},
+		{"id":"480fa58bb9c8db6e","x":1580,"y":-260,"width":374,"height":400,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Dirigido por eventos 1.png"},
+		{"id":"11a798db784ab40c","x":1580,"y":140,"width":374,"height":212,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Dirigido por eventos 2.png"}
+	],
+	"edges":[]
+}

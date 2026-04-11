@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"31fade6fce107f81","x":-300,"y":-240,"width":400,"height":218,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Oo funcional 1.png"},
+		{"id":"1329af0457b0f567","x":-300,"y":-22,"width":400,"height":262,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Oo funcional 2.png"},
+		{"id":"a4196b60d7c12c8f","x":160,"y":-240,"width":400,"height":289,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Imperativo declarativo.png"},
+		{"id":"cbba95bb63507811","x":600,"y":-240,"width":309,"height":400,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Reactivo funcional.png"}
+	],
+	"edges":[]
+}
