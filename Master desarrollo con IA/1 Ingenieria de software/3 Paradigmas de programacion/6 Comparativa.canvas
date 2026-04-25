@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"473aa18fb6ea66d1","x":-260,"y":-120,"width":400,"height":241,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Tabla comparativa paradigmas.png"}
+		{"id":"473aa18fb6ea66d1","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/3 Paradigmas de programacion/Tabla comparativa paradigmas.png","x":-260,"y":-120,"width":400,"height":241}
 	],
 	"edges":[]
 }

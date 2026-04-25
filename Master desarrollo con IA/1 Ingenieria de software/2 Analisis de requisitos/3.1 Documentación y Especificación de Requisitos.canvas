@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"cb87dfd65f86c42f","x":-320,"y":-300,"width":400,"height":335,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Reglas de oro.png"},
-		{"id":"c5944132a8eca822","x":-320,"y":120,"width":400,"height":202,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Historias de usuario y criterio de aceptacion.png"},
-		{"id":"06bff5c663a00d8e","x":-320,"y":400,"width":400,"height":282,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Casos de uso.png"},
-		{"id":"87cd39e3bc0d0de1","x":-320,"y":740,"width":400,"height":262,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Desing docs y rfc.png"}
+		{"id":"cb87dfd65f86c42f","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Reglas de oro.png","x":-320,"y":-300,"width":400,"height":335},
+		{"id":"c5944132a8eca822","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Historias de usuario y criterio de aceptacion.png","x":-320,"y":120,"width":399,"height":202},
+		{"id":"06bff5c663a00d8e","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Casos de uso.png","x":-320,"y":400,"width":400,"height":282},
+		{"id":"87cd39e3bc0d0de1","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/2 Analisis de requisitos/Desing docs y rfc.png","x":-320,"y":740,"width":400,"height":262}
 	],
 	"edges":[]
 }

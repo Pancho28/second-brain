@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4cf6da0ec351a12b","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Donde aplicar srp.png","x":-280,"y":-180,"width":400,"height":223},
+		{"id":"f68ae823e11e6e19","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Ejemplo con srp.png","x":200,"y":140,"width":391,"height":400},
+		{"id":"a072f80104fae02c","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Como aplicar srp.png","x":700,"y":-180,"width":361,"height":400},
+		{"id":"386eb1c40ff59fab","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios srp.png","x":-280,"y":80,"width":400,"height":230},
+		{"id":"b2fb014a488a2f36","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Reglas del srp.png","x":1140,"y":-180,"width":400,"height":235},
+		{"id":"cd89c398c875543f","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Ejemplo sin srp.png","x":200,"y":-180,"width":400,"height":298}
+	],
+	"edges":[]
+}

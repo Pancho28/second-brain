@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"052369e1e7691c61","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios DIP.png","x":-260,"y":-160,"width":400,"height":245},
+		{"id":"87fd90a8f11e1b2d","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violcacion de DIP.png","x":220,"y":-160,"width":400,"height":300},
+		{"id":"08d4ded31e701531","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion DIP.png","x":700,"y":-160,"width":400,"height":515},
+		{"id":"4b28e00ab5eaa29d","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Tecnicas de inyeccion de dependencias.png","x":1220,"y":-160,"width":400,"height":522}
+	],
+	"edges":[]
+}

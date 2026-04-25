@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"9016fc020e75aa2b","x":-300,"y":-200,"width":400,"height":214,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios ocp.png"},
+		{"id":"e97f3b502c0f756d","x":140,"y":-200,"width":400,"height":281,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion ocp.png"},
+		{"id":"f44e592093664968","x":140,"y":81,"width":400,"height":570,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion OCP.png"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f97c8ca9a6052ad7","x":-260,"y":-200,"width":400,"height":351,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion ISP.png"},
+		{"id":"cf6d61830a54429b","x":180,"y":-200,"width":400,"height":378,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion ISP.png"},
+		{"id":"a2c8a062ec307055","x":-720,"y":-200,"width":400,"height":296,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios ISP.png"}
+	],
+	"edges":[]
+}

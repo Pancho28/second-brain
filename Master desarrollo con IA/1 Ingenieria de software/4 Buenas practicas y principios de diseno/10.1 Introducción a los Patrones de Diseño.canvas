@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"80fcbd0c062ec83f","x":-340,"y":-180,"width":400,"height":294,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Que son los patrones.png"},
+		{"id":"bcd3549f5f351e71","x":120,"y":-180,"width":400,"height":398,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Alternativas modernas a los patrones.png"},
+		{"id":"8c9b3b3a8b6dca5a","x":560,"y":-179,"width":400,"height":198,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios patrones.png"}
+	],
+	"edges":[]
+}

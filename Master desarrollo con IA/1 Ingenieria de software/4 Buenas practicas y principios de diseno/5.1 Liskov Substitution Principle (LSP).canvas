@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"21e2a958fba46f40","x":-240,"y":-120,"width":400,"height":227,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Beneficios LSP.png"},
+		{"id":"bb35994447f13edb","x":220,"y":-120,"width":380,"height":400,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion LSP.png"},
+		{"id":"921602c8e9043d2e","x":660,"y":-120,"width":380,"height":633,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion LSP.png"}
+	],
+	"edges":[]
+}

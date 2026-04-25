@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"09e009d242a8b7a5","type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Resumen principios.png","x":-440,"y":40,"width":400,"height":156},
+		{"id":"f2a4bba9a9d3bb58","x":40,"y":40,"width":370,"height":400,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion DRY.png"},
+		{"id":"efb20b2096da598a","x":40,"y":460,"width":370,"height":458,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion DRY.png"},
+		{"id":"8109b3550cf4018e","x":460,"y":40,"width":373,"height":280,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion KISS.png"},
+		{"id":"e07a0eadee476a13","x":460,"y":340,"width":373,"height":373,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion KISS.png"},
+		{"id":"0d10a5dae0918d08","x":900,"y":40,"width":373,"height":327,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Violacion YAGNI.png"},
+		{"id":"563b5a1d9b6cf085","x":900,"y":380,"width":373,"height":348,"type":"file","file":"Imagenes master desarollo con IA/1 Ingenieria de software/4 Buenas practicas y principios de diseno/Aplicacion YAGNI.png"}
+	],
+	"edges":[]
+}
